@@ -30,6 +30,8 @@ Fluctuations in the time series data do not correspond to the trend or seasonali
 Oscillations in time series which last for more than a year are called cyclic. They may or may not be periodic.
 **Stationary**:
 A time series that has the same statistical properties over time is stationary. The properties remain the same anywhere in the series. Your data needs to be stationary to perform time-series analysis on it. A stationary series has a constant mean, variance, and covariance.
+
+
 **Loading pdarima Librey**
 
 <img width="453" alt="image" src="https://github.com/sairam986/Time_Series_Analysis/assets/132483336/69317798-091d-4e24-8736-48293ed58d24">
